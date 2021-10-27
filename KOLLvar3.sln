@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOLLvar3", "KOLLvar3.csproj", "{834263CA-ACA8-4F78-AC2E-A85DDAA4C2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834263CA-ACA8-4F78-AC2E-A85DDAA4C2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834263CA-ACA8-4F78-AC2E-A85DDAA4C2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834263CA-ACA8-4F78-AC2E-A85DDAA4C2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834263CA-ACA8-4F78-AC2E-A85DDAA4C2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013E8CED-E5AD-4709-9931-2A2155EFE4D9}
+	EndGlobalSection
+EndGlobal
